@@ -1,0 +1,30 @@
+.App {
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  color: aquamarine;
+  font-family: fantasy;
+  
+}
+
+.CardProduct {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 40px;
+    width: 80%;
+    padding-right: 5px;
+    color: blue;
+
+
+}
+
+/* .btn-carrito {
+  display: flex;
+  width: 200px;
+  justify-content: space-around;
+  background-color: blueviolet;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin: 5px;
+  font-family: 
+
+} */
