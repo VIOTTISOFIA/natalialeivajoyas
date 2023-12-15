@@ -23,7 +23,7 @@ render() {
 
         <NavBar/>
 
-        <ItemListContainer/>
+        <ItemListContainer props="Hola soy un titulo pasado por props"/>
         
         <div div className="CardProduct">
         < CardProduct img="../../src/assets/colgantes1.jpeg"

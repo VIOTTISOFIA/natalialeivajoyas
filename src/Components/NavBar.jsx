@@ -9,7 +9,7 @@ return (
             <li>Contacto</li>
             <li>Galeria</li>
             
-           <CartWidget/>
+          <CartWidget/>
             
         </ul>
     
@@ -17,5 +17,4 @@ return (
 )
 }
 
-export default NavBar
-
+export default NavBar;
